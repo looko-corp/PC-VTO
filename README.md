@@ -1,4 +1,4 @@
-## PC-VTO Dataset
+## UniVTO Dataset
 We collected 10,000 virtual try-on dataset for research purposes only. 
 You can download the dataset from [here](). 
 
